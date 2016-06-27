@@ -36,6 +36,6 @@
   - sisisin
     - 俺達がｸﾛﾌｯｶｼだ
   - AirGodMaster
-    - <未投稿>
+    - brand new voice
   - kanaechaniidx
     - ヘイコブ死ね
