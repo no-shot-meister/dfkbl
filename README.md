@@ -33,6 +33,6 @@
   - sisisin
     - 俺達がｸﾛﾌｯｶｼだ
   - AirGodMaster
-    - brand new voice
+    - Just as time is running out
   - kanaechaniidx
     - ヘイコブ死ね
