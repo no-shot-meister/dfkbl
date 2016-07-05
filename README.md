@@ -35,4 +35,4 @@
   - AirGodMaster
     - brand new voice
   - kanaechaniidx
-    - ヘイコブ死ね
+    - Dreht und dreht siiiiiiiiiiiiiich!!!
