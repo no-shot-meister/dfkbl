@@ -236,12 +236,13 @@
     - 蜂7は最速で出す。ちょうど青弾に潰される位置取りなので、蜂7の出現を確認してから左に移動して青弾を避ける。
     - 参考：https://drive.google.com/file/d/0B39oNCjLzzRMVTBkOTRzUGVPN2c/view
   - ナイアガラの新ムーブ
-    - Y軸の基本指針：当たり判定の高さを、レーザー源の円の下縁に合わせる。
+    - Y軸の基本指針：当たり判定の円の下縁を、レーザー源の円の下縁に合わせる。
+      - ナイアガラ出現直後に炙りにいく際は、画面左上のフレーム群が邪魔でナイアガラが見えないので、当たり判定の中心をハイパーゲージの下端に合わせる。
       - 下すぎても上すぎてもNGなので、反復練習して位置を掴む。
     - X軸の基本指針：ナイアガラとナイアガラの間に入り、常にレーザー源2つにオーラ撃ちできる位置取りをする。
       - 中心より気持ち右めを意識すると、Hit数の伸びはそのままに、ゲージ効率が微かに上がる（重要）。
     - 位置取り参考
-      - <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMS1VIUGhXN2NISWM" width="320px">
+      - <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMS1VIUGhXN2NISWM" width="320px">　<img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMUlZMN25MNEVvXzA" width="400px">
       - 左側の縦線はナイアガラとナイアガラの間の中心、右側の縦線は右側のナイアガラのレーザー源の左端。
       - 最初にY軸を合わせたら、X軸はスクロールに合わせてこの2本の縦線の間を維持するように動く。
     - 新ムーブは従前ムーブ（ナイアガラの正面で、できるだけレーザー源3つにオーラ撃ちできる位置取り）よりゲージ効率が低い。
